@@ -1,0 +1,12 @@
+TV Series Manager
+TV Series Manager is a simple Java console application that allows users to manage a list of TV series. It supports basic CRUD operations—Create, Read, Update, Delete—as well as search functionality. The project is structured using Maven and includes unit tests written with JUnit.
+
+How to Run
+- Clone or download the project into your local machine.
+- Open the project in NetBeans (or any IDE that supports Maven).
+- Make sure your package names match your folder structure exactly (Java is case-sensitive).
+- Clean and Build the project to compile all classes.
+- Run the SeriesManager class to start the console application.
+- To run tests, right-click the SeriesTest file and select Test File, or run mvn test from the terminal.
+
+
